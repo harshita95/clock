@@ -1,0 +1,62 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    color: navy;
+    text-align: center;
+}
+
+.alarmForm {
+    border: 3px solid black;
+    height: 350px;
+    margin: 0 auto;
+    width: 800px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.alarms {
+    border: 3px solid black;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 50%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-family: cursive;
+}
+
+.time {
+    font-family: fantasy;
+    font-size: 30px;
+    border: 3px solid black;
+    margin: 0 auto;
+    width: 150px;
+    box-shadow: 10px 10px 5px #888888;
+    border-radius: 25px;
+}
+
+label {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.hours {
+    border: 3px solid black;
+}
+.minutes {
+    border: 3px solid black;
+}
+.message {
+    border: 3px solid black;
+}
+
+.setAlarm {
+    border: 3px solid black;
+}
